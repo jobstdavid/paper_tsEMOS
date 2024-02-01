@@ -3,7 +3,7 @@
 
 This repository provides supplementary material for the following paper:
 
-> Jobst, D., Möller, A., and Groß, J., 2024. Time Series based Ensemble
+> Jobst, D., Möller, A., and Groß, J. 2024. Time Series based Ensemble
 > Model Output Statistics for Temperature Forecasts Postprocessing.
 > (preprint version available at <https://arxiv.org/>)
 
@@ -70,6 +70,7 @@ are evaluated in the whole year 2020.
 - [ensAR](https://github.com/JuGross/ensAR): Local autoregressive
   adjusted EMOS (AR-EMOS) with rolling training period.
 - [tsEMOS](https://github.com/jobstdavid/tsEMOS):
+  - Local smooth EMOS (SEMOS).
   - Local deseasonalized autoregressive smooth EMOS (DAR-SEMOS).
   - Local multiplicative deseasonalized autoregressive smooth EMOS with
     generalized autoregressive conditional heteroscedasticity
