@@ -1,5 +1,5 @@
 
-# Time Series based Ensemble Model Output Statistics for Temperature Forecast Postprocessing
+# Time Series based Ensemble Model Output Statistics for Temperature Forecasts Postprocessing
 
 This repository provides supplementary material for the following paper:
 
