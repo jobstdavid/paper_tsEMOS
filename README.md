@@ -5,7 +5,7 @@ This repository provides supplementary material for the following paper:
 
 > Jobst, D., Möller, A., and Groß, J. 2024. Time Series based Ensemble
 > Model Output Statistics for Temperature Forecasts Postprocessing.
-> (preprint version available at <https://arxiv.org/>)
+> (preprint version available at <https://arxiv.org/abs/2402.00555>)
 
 ## Data
 
