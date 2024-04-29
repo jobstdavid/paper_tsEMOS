@@ -18,7 +18,7 @@ The data needed for reproducing the results is publicly available:
 > <https://doi.org/10.5281/zenodo.8193645>
 
 For the data license see
-[here](https://github.com/jobstdavid/paper_tsEMOS/DATA_LICENSE).
+[here](https://github.com/jobstdavid/paper_tsEMOS/blob/main/DATA_LICENSE).
 
 ### ECMWF forecasts
 
