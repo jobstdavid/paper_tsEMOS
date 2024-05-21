@@ -23,10 +23,8 @@ emos <- function(data, # data
   fds <- seq(as.Date(ffd), as.Date(lfd), by = "days")
   
   train_data <- mclapply(1:length(fds), function(k) {
-    init_date <- fds[k] - 1
+    init_date <- fds[k] - 1 - n_ahead
     tmp <- tail(data[data$id == location & data$date <= init_date, c(obs_col, mean_col, sd_col)], n = l)
-    tmp[, 1] <- c(tmp[1:(l-n_ahead), 1], rep(NA, n_ahead))
-    tmp[, 1] <- imputeTS::na_ma(tmp[, 1])
     tmp
   }, mc.cores = cores)  
   

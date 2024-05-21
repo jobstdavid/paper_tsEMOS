@@ -34,7 +34,7 @@ For the data license see [here](https://github.com/jobstdavid/paper_tsEMOS/blob/
 - Forecast initialization time: 12 UTC
 - Area: Germany
 - Resolution: 0.25 degrees
-- Meteoro\text{log}ical variable: [2m surface temperature](https://codes.ecmwf.int/grib/param-db/?id=167) (t2m)
+- Meteorological variable: [2m surface temperature](https://codes.ecmwf.int/grib/param-db/?id=167) (t2m)
 
 ### DWD observations
 

@@ -30,7 +30,7 @@ For the data license see
 - Forecast initialization time: 12 UTC
 - Area: Germany
 - Resolution: 0.25 degrees
-- Meteoroical variable: [2m surface
+- Meteorological variable: [2m surface
   temperature](https://codes.ecmwf.int/grib/param-db/?id=167) (t2m)
 
 ### DWD observations
